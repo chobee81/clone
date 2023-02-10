@@ -108,7 +108,6 @@ section h2, section h3 { text-transform: uppercase; }
              font: 20px / 67px 'GmarketSansMedium'; 
              text-indent: 15px; }
 .storeName::placeholder { color: #ac162c;  }
-.searchBtn { position: absolute; bottom: 30px; left: 350px; }
 /* menu */
 #menu { 
         background: url(../images/bg_menu.jpg) no-repeat center / cover;
